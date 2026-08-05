@@ -24,4 +24,4 @@ This bot is provided “as-is” and is not affiliated with Discord, Inc.
 
 ## 6. Contact
 If you have questions, contact: genericrobot20@gmail.com
-(Gmail is both and monitored by generic, And robotical)
+(Gmail is both controled, maintained, and monitored by generic, And robotical)
