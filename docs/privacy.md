@@ -34,3 +34,4 @@ This bot is not intended for children under 13. If you believe a child has provi
 
 ## 8. Contact
 Contact: genericrobot20@gmail.com
+(Gmail is both controled, maintained, and monitored by generic, And robotical)
