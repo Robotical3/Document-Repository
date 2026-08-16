@@ -33,5 +33,4 @@ As of currently there is no security needed for a data storage that doesnt exist
 This bot is not intended for children under 13. If you believe a child has provided personal information, contact us.
 
 ## 8. Contact
-Contact: genericrobot20@gmail.com
-(Gmail is both controled, maintained, and monitored by generic, And robotical)
+Contact: MAINROBOTCENTER@proton.me
